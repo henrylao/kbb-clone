@@ -1,0 +1,25 @@
+Make = Ford
+Model = Focus Wagon ZTW
+Year = 2019
+BasePrice = 18445
+
+OptionSet1 = Transmission
+	{
+		Option1Name1 = Manual
+		Option1Price1 = 0
+		
+		Option1Name2 = Automatic
+		Option1Price2 = -815
+	}
+
+OptionSet2 = Sound Brakes/Traction Control
+	{
+		Option2Name1 = Standard
+		Option2Price1 = 0
+		
+		Option2Name2 = ABS
+		Option2Price2 = 400
+		
+		Option2Name3 = ABS w/ Advance Trac
+		Option2Price3 = 1625
+	}

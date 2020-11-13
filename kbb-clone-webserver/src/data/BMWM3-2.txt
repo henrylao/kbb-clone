@@ -1,0 +1,37 @@
+BMW: M3 : 50000
+Color
+{
+	5
+	Fort Know Gold Clearcoat: 0
+	Liquid Grey Clearcoat Metallic: 0
+	Infra-Red Clearcoat: 0
+	Grabber Green Clearcoat Metallic: 0
+	Sangria Red Clearcoat Metallic: 0
+	
+}
+Transmission
+{
+	3
+	Automatic V6: 1500
+	Automatic Inline6 1700: 0
+	Manual Inline-8: 2000
+}
+Brakes/Traction Control
+{
+	3
+	Standard: 0
+	ABS: 400
+	ABS w/ Advance Trac: 1625
+}
+Side Impact Air Bags
+{
+	2
+	Selected: 350
+	None: 0
+}
+Power Moonroof 
+{
+	2
+	Selected: 595
+	None: 0
+}
