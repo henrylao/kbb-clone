@@ -16,6 +16,10 @@ Final project for a Java class taken in 2019.
 * https://www.javahelps.com/2015/03/install-apache-tomcat-on-ubuntu.html
 * https://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/
 * https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
+* Webprogramming File Structure: https://stackoverflow.com/questions/12902339/eclipse-dynamic-web-project-file-locations
+
+# Useful Git Setup Resources:
+* Pushing to newly created git-repo from existing local-repo: https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote
 
 # Known Issues:
 * ClientDriver of KBBClient package is currently broken
