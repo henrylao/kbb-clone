@@ -8,7 +8,7 @@ Final project for a Java class taken in 2019.
 # Website Setup
 1. Ensure port numbers denoted are available for use.
 2. To start up the server, run ServerDriver.java in the KBBServer package.
-3. Startup tomcat.
+3. Startup tomcat ensuring Tomcat has a specified port number and HTTPS port.
 4. Run the index.html from the KBBServer package on tomcat server.
 
 # References:
