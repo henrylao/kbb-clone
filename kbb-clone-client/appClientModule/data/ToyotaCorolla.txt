@@ -1,0 +1,37 @@
+Toyota: Corolla: 15000
+Color
+{
+	6
+	Red: 0
+	Blue: 0
+	Green: 0
+	Silver: 0
+	White: 0
+	Black: 0
+}
+Transmission
+{
+	2
+	Automatic: 0
+	Manual: -815
+}
+Brakes/Traction Control
+{
+	3
+	Standard: 0
+	ABS: 400
+	ABS w/ Advance Trac: 1625
+}
+Side Impact Air Bags
+{
+	2
+	Selected: 350
+	None: 0
+}
+Engine
+{
+	3
+	Standard V4: 0
+	Inline 6: 500
+	V6: 700	
+}

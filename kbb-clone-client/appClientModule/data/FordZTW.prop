@@ -1,0 +1,79 @@
+Make = Ford
+Model = Focus Wagon ZTW
+BasePrice = 18445
+
+OptionSet1 = Color
+{
+	10
+	Option1Name1 = Fort Know Gold Clearcoat
+	Option1Price1=  0
+	
+	Option1Name2 = Liquid Grey Clearcoat Metallic 
+	Option1Price2= 0
+	
+	Option1Name3 = Infra-Red Clearcoat
+	 Option1Price3 =0
+	 
+	Option1Name4 = Grabber Green Clearcoat Metallic
+	 Option1Price4=0
+	 
+	Option1Name5 = Sangria Red Clearcoat Metallic
+	 Option1Price5=0
+	 
+	Option1Name6 = French Blue Clearcoat Metallic
+	 Option1Price6=0
+	 
+	Option1Name7 = Twilight Blue Clearcoat Metallic
+	 Option1Price7=0
+	 
+	Option1Name8 = CD Silver Clearcoat Metallic 
+	Option1Price8=0
+	
+	Option1Name9 = Pitch Black Clearcoat
+	 Option1Price9=0
+	 
+	Option1Name10 = Cloud 9 White Clearcoat
+	 Option1Price10 =0
+}
+
+OptionSet2 =Transmission
+{
+	2
+	Option2Name1 = Automatic 
+	Option2Price1 =  0
+	
+	Option2Name2 = Manual 
+	Option2Price2 = -815
+}
+
+OptionSet3 = Brakes/Traction Control
+{
+	Option3Name1 = Standard
+	Option3Price1 = 0
+
+	Option3Name2 = ABS
+	Option3Price2=  400
+	
+	Option3Name3 = ABS w/ Advance Trac
+	Option3Price3 =  1625
+}
+
+OptionSet4 = Side Impact Air Bags
+{
+	2
+	Option3Name1 = Selected 
+	Option3Price1 = 350
+	
+	Option3Name2 =None 
+	Option3Price2 = 0
+}
+
+OptionSet5 =Power Moonroof
+{
+	2
+	Option5Name1 =Selected 
+	Option5Price1 = 595
+	
+	Option5Name2 =None 
+	Option5Price2 = 0
+}
